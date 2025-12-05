@@ -45,14 +45,4 @@ IBM Telco Customer Churn (Kaggle). Contains contract type, services, payment met
 - `data/` – dataset CSV 
 - `.venv/` – virtual environment (excluded via `.gitignore`)
 
-## How to Run
-```bash
-# Create venv (Windows)
-python -m venv .venv
-.\.venv\Scripts\Activate
-
-# Install packages
-pip install pandas numpy seaborn matplotlib scikit-learn jupyter joblib
-
-# Open the notebook in VS Code and select the .venv kernel
 
