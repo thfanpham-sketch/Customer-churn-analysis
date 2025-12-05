@@ -41,8 +41,8 @@ IBM Telco Customer Churn (Kaggle). Contains contract type, services, payment met
 
 ## Project Files
 - `notebooks/01_churn_analysis.ipynb` – cleaning, EDA, model, metrics, charts  
-- `reports/figures/` – saved visuals (optional)  
-- `data/` – dataset CSV (not always pushed to GitHub)  
+- `reports/figures/` – saved visuals 
+- `data/` – dataset CSV 
 - `.venv/` – virtual environment (excluded via `.gitignore`)
 
 ## How to Run
@@ -55,3 +55,4 @@ python -m venv .venv
 pip install pandas numpy seaborn matplotlib scikit-learn jupyter joblib
 
 # Open the notebook in VS Code and select the .venv kernel
+
